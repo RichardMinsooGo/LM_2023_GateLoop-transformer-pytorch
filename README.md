@@ -1,4 +1,4 @@
-<img src="./gateloop.png" width="450px"></img>
+<img src="./gateloop.png" width="800px"></img>
 
 ## GateLoop Transformer
 
